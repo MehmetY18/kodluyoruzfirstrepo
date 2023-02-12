@@ -4,7 +4,10 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 ### Installation
 ---
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-'''https://github.com/MehmetY18/kodluyoruzfirstrepo'''
+'''
+https://github.com/MehmetY18/kodluyoruzfirstrepo
+
+'''
 ### Usage
 ---
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
